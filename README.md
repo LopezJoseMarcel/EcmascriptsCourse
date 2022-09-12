@@ -1,5 +1,5 @@
 # EcmascriptsCourse
-![][image_ref_6pjackcg]
+
 ### Es6:
 * Parametros de funciones por defecto.
 * Tempaltes literals
