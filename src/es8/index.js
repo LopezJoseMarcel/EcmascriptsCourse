@@ -27,7 +27,7 @@ const data = {
 
 //PADDING
 const string = 'Hello';
-console.log(string.padStart(7,'hi'));//agrega al pricipio cracteres indicandol el maximo de caracteres dela cadena
+console.log(string.padStart(7,'hi'));//agrega al pricipio o al final cracteres indicandol el maximo de caracteres dela cadena
 console.log(string.padEnd(11,' ----'));
 
 
